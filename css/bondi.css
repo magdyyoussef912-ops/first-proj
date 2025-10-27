@@ -229,7 +229,8 @@ body{
     background-color: #ff0000;
 }
 /* end footer */
-html {
+html, body {
     overflow-x: hidden !important;
 }
+
 
